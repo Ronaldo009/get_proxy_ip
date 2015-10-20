@@ -10,3 +10,6 @@ brew link libxslt --force
 
 pip install scrapy
 
+
+run method:
+python crawl.py
